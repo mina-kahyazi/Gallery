@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mina
 - 👀 I’m interested in Web design and development..
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Wordpress!
 - 💞️ I’m looking to collaborate on various projects
 - 📫 Contact me at m.kahyazi@gmail.com
 
