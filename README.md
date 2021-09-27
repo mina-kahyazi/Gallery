@@ -1,5 +1,7 @@
 - 👋 Hi, I’m Mina
-- 👀 I’m interested in Web development..
-- 🌱 I’m currently building projects with HTML, CSS, JavaScript!
-- 💞️ I’m looking to collaborate on various projects
-- 📫 Contact me at m.kahyazi@gmail.com
+- 👀 I have Bs.c in Computer Sience, and I love coding!:D 
+- 🌱 I use Developer.Mozilla.org resources and assessment projects to improve my skills in JavaScript everyday!:)
+- 💞️ I look for a Front-End Developer position(voluntary, internship, co-op) in Vancouver Metropolitan Area !;)
+- 📫 Happy to chat with you if you are intrested:)
+-    Find me at https://www.linkedin.com/in/mina-kahyazi-bbb619167/
+-   
